@@ -1,6 +1,6 @@
 # quiz
 The program quiz uses text files with questions for different category (16 categories). 
-When user run the script (main method), then must choose the category as an input (System.in), so the main action is in console view. 
+When user run the script (main method), then must choose the category as an input (System.in), so the main action is in console view. Player have available 3 lifelines: fiftyfifty, public, and phone.
 Every steps are explained during the game on the console. Enjoy!
 
 Available categories:
